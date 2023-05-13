@@ -1,7 +1,4 @@
-![GitHub Logo](1.png)
-
-
-# Super*Duper*Drive Cloud Storage
+# Utility Storage
 
 
 1. **Simple File Storage:** Upload/download/remove files
